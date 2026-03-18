@@ -1,2 +1,1 @@
-#Assignments
 Repository for assignments
